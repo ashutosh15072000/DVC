@@ -1,0 +1,4 @@
+dvc checkout
+dvc add 
+dvc remote add -d remote_storage0 A:\Docker\DVC\my_remote_storage
+dvc push

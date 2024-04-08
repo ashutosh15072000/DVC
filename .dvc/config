@@ -1,0 +1,12 @@
+[core]
+    remote = googledrive_storage
+['remote "remote_storage"']
+    url = ../DockerDVC
+['remote "remote_storage2"']
+    url = ../DockerDVCmy_remote_storage
+['remote "remote_storage0"']
+    url = ../DockerDVCmy_remote_storage
+['remote "remote_storage01"']
+    url = A:/Docker/DVC/my_remote_storage
+['remote "googledrive_storage"']
+    url = gdrive://1a5j3a27CEf3MuVL7ACAoVgxElaIda3MU

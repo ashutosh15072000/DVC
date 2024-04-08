@@ -10,4 +10,4 @@ Data=[
 
 data=pd.DataFrame(Data)
 
-data.to_csv("data/data.csv",index=False)
+data.to_csv("data\data.csv",index=False)
